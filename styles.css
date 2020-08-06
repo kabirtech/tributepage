@@ -1,0 +1,69 @@
+body{
+  background-color: #f4f4f4 ;
+  text-align: justify;
+}
+/**font-family: 'Pacifico', cursive;
+font-family: 'Roboto', sans-serif;**/
+
+h1{
+  font-family:'Pacifico',cursive;
+  font-size: 80px ;
+  margin-top: 1;
+  margin-bottom: 0;
+
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+li{
+  font-family: 'Roboto', sans-serif;
+  line-height: 2 ;
+  }
+
+img{
+  border-radius:50% ;
+}
+
+hr{
+  border-top: 1px;
+  border-bottom: 1px;
+}
+
+a:link{
+  color:blue;
+  text-decoration: none;
+}
+a:visited{
+  color:#9a1f40;
+  text-decoration: none;
+}
+a:hover{
+  color:red;
+  text-decoration: none;
+}
+.below-caption{
+  text-align: center;
+  margin: 0;
+  background-color: #cff6cf;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+/** div styling Zone **/
+/** hero is from h1 to /fig **/
+.top-container {
+   text-align: center;
+   line-height: 1;
+
+
+ }
+
+.bottom-container{
+    background-color:#f4f4f4;
+}
+.last-para{
+  text-align: center;
+}
